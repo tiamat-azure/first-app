@@ -26,7 +26,7 @@
     "useSass": true,
     "clientPackageManager": "npm",
     "clientFramework": "angularX",
-    "clientTheme": "cerulean",
+    "clientTheme": "yeti",
     "clientThemeVariant": "primary",
     "creationTimestamp": 1580050739903,
     "testFrameworks": [],
